@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[brianhscott]]></title>
         <description><![CDATA[brianhscott]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brianhscott/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 20:36:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 23:27:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brianhscott/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[asdfasdfasdf]]></title>
+            <description><![CDATA[<article><h1>asdfasdfasdf</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9bc142f8bce0a1df688d6c006e3606b9/croprotate.jpg?cropheight=4757&cropwidth=10875&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fce9777e2-6a70-4a07-8d75-f84214d34efc.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/brianhscott/asdfasdfasdf/index.html</link>
+            <guid isPermaLink="false">48922f51-a999-4027-954f-c6bf333a7c66</guid>
+            <pubDate>Thu, 30 Jun 2016 23:26:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trident Maple]]></title>
-            <description><![CDATA[<article><h1>Trident Maple</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3c266576b57e09f2e9df065414dc1d94542fb59.jpg"></article>]]></description>
-            <link>undefinedtrident-maple/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ed2dfa1-d7dc-4476-b097-e91a0888ba64.jpg">]]></description>
+            <link>https://thegrid.ai/brianhscott/trident-maple/index.html</link>
             <guid isPermaLink="false">70671a81-ff5d-4808-abc0-9f419aea34fa</guid>
             <pubDate>Sun, 03 Jan 2016 20:36:48 GMT</pubDate>
         </item>
